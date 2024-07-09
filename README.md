@@ -33,3 +33,11 @@ This can be the website on which the image was found, or the name of the book in
 ### Add image
 
 TBA
+
+## License
+
+Images in `/images` each have their own license.
+Please refer to [`_images.yml`](_images.yml) for more information.
+
+All other files are licensed under the MIT license.
+For details, see the [`LICENSE`](LICENSE) file.

@@ -2,3 +2,4 @@
 **/.git* annex.largefiles=nothing
 _images.yml annex.largefiles=nothing
 README.md annex.largefiles=nothing
+LICENSE annex.largefiles=nothing
