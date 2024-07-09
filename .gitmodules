@@ -1,0 +1,4 @@
+[submodule "images"]
+	path = images
+	url = ./images
+	datalad-id = a3704dfe-1ac4-4a50-a627-b56461ec2913
