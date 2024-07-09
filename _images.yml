@@ -1,0 +1,17 @@
+branches-turing-way:
+  image-title: "Illustration of branches in a Git repository"
+  image-file: "branches-turing-way.png"
+  image-url: "https://book.the-turing-way.org/_images/sub-branch.png"
+  image-reference: "https://book.the-turing-way.org/reproducible-research/vcs/vcs-git-branches.html"
+  author-name: "The Turing Way handbook to reproducible, ethical and collaborative data science"
+  author-url: "https://book.the-turing-way.org/"
+  license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md"
+  comments: "reused without modifications"
+  image-doi: 10.5281/zenodo.3233853
+  image-caption: |
+    Each circle represents a commit. Commits on the `Main` branch are shown in gray. The branch `Feature A` (blue circles) was created from the `Main` branch and later merged again. In-between, another branch `Feature A-1` was created from the `Feature A` branch (green circles) and merged with that branch again before the `Feature A` branch was eventually merged with the `Main` branch. The branch `Feature B` was created but abandoned and not merged with the `Main` branch.
+  image-alt: |
+    An illustration of branching in Git. There are four branches shown named main, Feature A, Feature B, and Feature A-1. Feature A and B are branches of the main branch, while Feature A-1 is a branch made from Feature A.
