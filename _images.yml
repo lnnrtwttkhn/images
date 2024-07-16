@@ -15,3 +15,223 @@ branches-turing-way:
     Each circle represents a commit. Commits on the `Main` branch are shown in gray. The branch `Feature A` (blue circles) was created from the `Main` branch and later merged again. In-between, another branch `Feature A-1` was created from the `Feature A` branch (green circles) and merged with that branch again before the `Feature A` branch was eventually merged with the `Main` branch. The branch `Feature B` was created but abandoned and not merged with the `Main` branch.
   image-alt: |
     An illustration of branching in Git. There are four branches shown named main, Feature A, Feature B, and Feature A-1. Feature A and B are branches of the main branch, while Feature A-1 is a branch made from Feature A.
+version-control-turing-way:
+  image-title: "Illustration of version control"
+  image-file: "version-control-turing-way.svg"
+  image-url: "https://book.the-turing-way.org/_images/version-control.svg"
+  image-reference: "https://book.the-turing-way.org/reproducible-research/rdm/rdm-storage.html"
+  author-name: "The Turing Way handbook to reproducible, ethical and collaborative data science"
+  author-url: "https://book.the-turing-way.org/"
+  license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md"
+  comments: "reused without modifications"
+  image-doi: 10.5281/zenodo.3695300 
+  image-caption: |
+    The illustration contrasts the confusion of manual document versioning with the organization and ease of digital version control systems  
+  image-alt: |
+    An illustration depicting the chaos of managing multiple document versions manually versus the efficiency of using a digital version control system.
+final.doc-phdcomics:
+  image-title: "notFinal.doc"
+  image-file: "phd-comic-final-doc.gif"
+  image-url: "https://phdcomics.com/comics/archive_print.php?comicid=1531"
+  image-reference: "https://phdcomics.com/comics/archive.php?comicid=1531"
+  author-name: "Piled Higher and Deeper Publishing, LLC."
+  author-url: "https://phdcomics.com"
+  license-short: "no license found"
+  license-long: "no license found"
+  license-url: "no license found"
+  license-reference: "no license found"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    The comic humorously captures the frustration of endless document revisions.
+  image-alt: |
+    A comic strip showing a person going through numerous document revisions, starting with "FINAL.doc" and progressing to increasingly complicated filenames, reflecting the ongoing cycle of edits and comments.
+documents-xkcd:
+  image-title: "Documents"
+  image-file: "xkcd-documents.png"
+  image-url: "https://imgs.xkcd.com/comics/documents.png"
+  image-reference: "https://xkcd.com/1459/"
+  author-name: "xkcd"
+  author-url: "https://xkcd.com/"
+  license-short: "CC BY-NC 2.5"
+  license-long: "Creative Commons Attribution Non Commercial 2.5 Generic"
+  license-url: "https://creativecommons.org/licenses/by-nc/2.5/"
+  license-reference: "https://xkcd.com/1459/"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    A chaotic and disorganized documents folder prompts a strong reaction.
+  image-alt: |
+   A comic showing a person reacting with "Oh my God" after seeing another person's documents folder filled with disorganized, unnamed, and duplicate files.
+project-history-turing-way:
+  image-title: "Illustration of tracking project history"
+  image-file: "project-history-turing-way.svg"
+  image-url: "https://zenodo.org/records/3695300/files/VersionControl.jpg"
+  image-reference: "https://book.the-turing-way.org/reproducible-research/vcs"
+  author-name: "The Turing Way handbook to reproducible, ethical and collaborative data science"
+  author-url: "https://book.the-turing-way.org/"
+  license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md"
+  comments: "reused without modifications"
+  image-doi: 10.5281/zenodo.3332807
+  image-caption: |
+    Efficiently track project history with organized version control.
+    An illustration comparing a disorganized stack of document versions on the left with a hand selecting a specific version from a dial representing organized digital version control on the right.
+file-names-phdcomics:
+  image-title: "A story told in file names"
+  image-file: "phd-comic-story-told-in-file-names.gif"
+  image-url: "https://phdcomics.com/comics/archive_print.php?comicid=1323"
+  image-reference: "https://phdcomics.com/comics/archive.php?comicid=1323"
+  author-name: "Piled Higher and Deeper Publishing, LLC."
+  author-url: "https://phdcomics.com"
+  license-short: "no license found"
+  license-long: "no license found"
+  license-url: "no license found"
+  license-reference: "no license found"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+     humorous depiction of file naming chaos during a PhD thesis project.
+  image-alt: |
+     A file explorer window showing a series of data files with progressively more frustrated names, reflecting the struggle of a PhD thesis project, such as "data_2010.05.28_WTF.dat" and "data_2010.05.29_startingover.dat."
+file-versions-mozillas:
+  image-title: "Illustration of file versions"
+  image-file: "versions-single-file.png"
+  image-url: "https://github.com/mozillascience/study-group-orientation/blob/master/images/gh07.png"
+  image-reference: "https://mozillascience.github.io/study-group-orientation/3.1-collab-vers-github.html"
+  author-name: "Mozilla Science Lab"
+  author-url: "https://mozillascience.github.io/study-group-orientation/5-what-mozilla.html"
+  license-short: "MPL 2.0"
+  license-long: "Mozilla Public License Version 2.0"
+  license-url: "https://www.mozilla.org/en-US/MPL/2.0/"
+  license-reference: "https://github.com/mozillascience/study-group-orientation/blob/master/LICENSE"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    Illustrating the steps in document version control.
+  image-alt: |
+    An illustration showing a sequence of documents with symbols indicating additions, deletions, and edits, representing the process of document version control along a timeline.
+command-line-example:
+  image-title: "Version 7 UNIX SIMH PDP11 Kernels Shell"
+  image-file: "command-line-bash.png"
+  image-url: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Version_7_UNIX_SIMH_PDP11_Kernels_Shell.png"
+  image-reference: "https://en.wikipedia.org/wiki/Command-line_interface"
+  author-name: "Wikimedia Commons"
+  author-url: "https://commons.wikimedia.org/wiki/Main_Page"
+  license-short: "CC0 1.0 Universal"
+  license-long: "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+  license-url: "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  license-reference: "https://commons.wikimedia.org/wiki/File:Version_7_UNIX_SIMH_PDP11_Kernels_Shell.png#filelinks"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    A terminal window displaying a list of files and their details in a Unix file system.
+  image-alt: |
+    A terminal window showing a detailed list of files with permissions, owner, size, modification date, and filenames in a Unix file system, including files like "fsck," "getty," and "passwd."
+git-for-windows-logo:
+  image-title: "Git for Windows Logo"
+  image-file: "git-for-windows-logo.png"
+  image-url: "https://github.com/git-for-windows/git-for-windows.github.io/blob/db9a134ed0fd484568124c1f79cb011eddb9a21d/img/gwindows_logo.svg"
+  image-reference: "https://github.com/git-for-windows"
+  author-name: "Git for Windows"
+  author-url: "https://gitforwindows.org"
+  license-short: "no license found"
+  license-long: "no license found"
+  license-url: "no license found"
+  license-reference: "no license found"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    The "Git for Windows" Logo
+  image-alt: |
+    The "Git for Windows" Logo: A Git logo in a diamond shape with sections colored red, green, blue, and yellow, featuring a stylized branch and nodes icon in white.
+hacker-meme:
+  image-title: "Hackerman meme"
+  image-file: "cli_meme.jpg"
+  image-url: "https://www.reddit.com/r/meme/comments/fu9f3b/command_prompt/#lightbox"
+  image-reference: "https://www.reddit.com/r/meme/comments/fu9f3b/command_prompt/"
+  author-name: "u/Indrajithbandara"
+  author-url: "https://www.reddit.com/user/Indrajithbandara/"
+  license-short: "no license found"
+  license-long: "no license found"
+  license-url: "no license found"
+  license-reference: "no license found"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    The feeling when you type something in command prompt for the first time: "Haker.
+  image-alt: |
+     A meme image of a distorted face typing on a laptop with "Haker" written above, humorously capturing the feeling of typing something in the command prompt for the first time, with a background resembling the Matrix code.
+git-commmit-xkcd:
+  image-title: "Git Commit"
+  image-file: "xkcd-git-commit.png"
+  image-url: "https://imgs.xkcd.com/comics/git_commit.png"
+  image-reference: "https://xkcd.com/1296/"
+  author-name: "xkcd"
+  author-url: "https://xkcd.com/"
+  license-short: "CC BY-NC 2.5"
+  license-long: "Creative Commons Attribution Non Commercial 2.5 Generic"
+  license-url: "https://creativecommons.org/licenses/by-nc/2.5/"
+  license-reference: "https://xkcd.com/1296/"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    As a project drags on, Git commit messages get less and less informative.
+  image-alt: |
+   A comic strip showing a list of Git commit messages that become progressively less informative over time, starting with detailed comments like "CREATED MAIN LOOP & TIMING CONTROL" and devolving into random letters and words like "ADKFJSLKDFJSDKLFJ" and "HAAAAAAAAAANDS."
+git-cherry-pic-illustration:
+  image-title: "git cherry-pic illustration"
+  image-file: "cherry-pick.png"
+  image-url: "https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fyytgq0uoux7dwfoewxxt.png"
+  image-reference: "https://dev.to/0xkoji/what-is-git-cherry-pick-3fka"
+  author-name: "Koji Kanao"
+  author-url: "https://koji.thedev.id"
+  license-short: "no license found"
+  license-long: "no license found"
+  license-url: "no license found"
+  license-reference: "no license found"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    Illustrating the use of Git commands: cherry-pick and merge.
+  image-alt: |
+   A diagram showing two Git workflows: the first demonstrating the use of "git cherry-pick" to pull a specific commit, and the second showing the use of "git merge" to incorporate changes from another branch.
+git-rebase-illustration:
+  image-title: "git rebase illustration"
+  image-file: "rebasing.jpg"
+  image-url: "https://res.cloudinary.com/practicaldev/image/fetch/s--4F3hItHc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hkftpmgzz7ixtqaxldsw.jpg"
+  image-reference: "https://dev.to/_mohanmurali/deep-dive-into-git-rebase-5b05"
+  author-name: "Mohan Murali"
+  author-url: "https://dev.to/_mohanmurali"
+  license-short: "no license found"
+  license-long: "no license found"
+  license-url: "no license found"
+  license-reference: "no license found"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    Comparing Git merge and rebase workflows.
+  image-alt: |
+   A diagram illustrating the difference between Git merge and rebase: the merge workflow shows parallel branches combined, while the rebase workflow shows a linear history where the feature branch is moved to the end of the main branch
+git-in-case-of-fire-illustration:
+  image-title: "In case of fire"
+  image-file: "git-in-case-of-fire.png"
+  image-url: "https://github.com/louim/in-case-of-fire/blob/master/in_case_of_fire.png"
+  image-reference: "https://github.com/louim/in-case-of-fire?tab=readme-ov-file"
+  author-name: "Louis-Michel Couture"
+  author-url: "https://twitter.com/louim"
+  license-short: "MIT"
+  license-long: "The MIT License"
+  license-url: "https://opensource.org/license/mit"
+  license-reference: "https://github.com/louim/in-case-of-fire/blob/master/LICENSE"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+     In case of fire: 1. git commit, 2. git push, 3. leave building.
+  image-alt: |
+   An emergency sign humorously instructing to "git commit," "git push," and then "leave building" in case of fire, with icons representing each step.
