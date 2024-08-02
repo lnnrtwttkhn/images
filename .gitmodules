@@ -1,0 +1,5 @@
+[submodule "images-source"]
+	path = images-source
+	url = git@github.com:lnnrtwttkhn/images-source.git
+	datalad-id = a3704dfe-1ac4-4a50-a627-b56461ec2913
+	datalad-url = git@github.com:lnnrtwttkhn/images-source.git
