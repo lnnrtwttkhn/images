@@ -15,3 +15,18 @@ branches-turing-way:
     Each circle represents a commit. Commits on the `Main` branch are shown in gray. The branch `Feature A` (blue circles) was created from the `Main` branch and later merged again. In-between, another branch `Feature A-1` was created from the `Feature A` branch (green circles) and merged with that branch again before the `Feature A` branch was eventually merged with the `Main` branch. The branch `Feature B` was created but abandoned and not merged with the `Main` branch.
   image-alt: |
     An illustration of branching in Git. There are four branches shown named main, Feature A, Feature B, and Feature A-1. Feature A and B are branches of the main branch, while Feature A-1 is a branch made from Feature A.
+claussen-simon-foundation-logo:
+  image-title: "Logo of the Claussen Simon Foundation"
+  image-file: "claussen-simon-foundation-logo.svg"
+  image-url: "https://www.claussen-simon-stiftung.de/static/img/logo.svg"
+  image-reference: "https://www.claussen-simon-stiftung.de/de/"
+  author-name: "Claussen Simon Foundation"
+  author-url: "https://www.claussen-simon-stiftung.de/de/"
+  # license-short: ""
+  # license-long: ""
+  # license-url: ""
+  # license-reference: ""
+  comments: "reused without modifications"
+  # image-doi: 
+  # image-caption: ""
+  image-alt: "Logo of the Claussen Simon Foundation."
