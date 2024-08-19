@@ -235,3 +235,142 @@ git-in-case-of-fire-illustration:
      In case of fire: 1. git commit, 2. git push, 3. leave building.
   image-alt: |
    An emergency sign humorously instructing to "git commit," "git push," and then "leave building" in case of fire, with icons representing each step.
+allisonhorst-commits-qoute:
+  image-title: "Commits qoute"
+  image-file: "allisonhorst-commits-qoute.png"
+  image-url: "https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/78587c8b-fa99-4c94-bce2-026cf4e588b5_rw_3840.png?h=fe974bfc95ca6dc2261541a3dfc562ec"
+  image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
+  author-name: "Allison Horst & Julia Lowndes"
+  author-url: "https://openscapes.org"
+ license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+     Why GitHub? 
+  image-alt: |
+   On the left is a quote from Hadley Wickham and Jenny Bryan that says “Using a Git commit is like using anchors and other protection when climbing…if you make a mistake you can’t fall past the previous commit. Commits are also helpful to others, because they show your journey, not just the destination.” On the right, two little monsters climb a cliff face. Their ropes are secured by several anchors, each labeled “Commit”. Three monsters on the ground support the climbers.
+allisonhorst-commits:
+  image-title: "Commits illustration"
+  image-file: "allisonhorst-commits.png"
+  image-url: "https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/e3538019-4520-46e6-b9ac-baee061888fc_rw_3840.png?h=7a0fed4442c97b20ab9506a695d7f44a"
+  image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
+  author-name: "Allison Horst & Julia Lowndes"
+  author-url: "https://openscapes.org"
+ license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+     GitHub helps us fail safely
+  image-alt: |
+    A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled “Commit”.
+allisonhorst-gitfetch:
+  image-title: "Git fetch illustration"
+  image-file: "allisonhorst-gitfetch.png"
+  image-url: "https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/7f2a398a-3351-49e4-8430-5d1793c5a775_rw_3840.png?h=0cdf228a877ef47a90b0eb97e1d8a8f3"
+  image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
+  author-name: "Allison Horst & Julia Lowndes"
+  author-url: "https://openscapes.org"
+ license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+     Git fetch explanation
+  image-alt: |
+    Illustration highlighting the difference between git fetch and git pull. On the left (representing git fetch), a crocodile holding a box says to another crocodile eating salad: "They had a new topping mix at the store. Check it out, it might be good in your salad." On the right (representing git pull), a crocodile says "They had a new topping mix at the store. I bought some and mixed it into your salad" while a concerned looking crocodile looks at their salad, which now contains the topping mix of insects. Text at the bottom reads "Check what you're getting before merging it in with git fetch."
+allisonhorst-github-qoute:
+  image-title: "GitHub qoute"
+  image-file: "allisonhorst-github-qoute.png"
+  image-url: "https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/7a5f458a-3d63-4e46-8a09-c417e52587ea_rw_3840.png?h=d9a3cb756dc7b020783bbc1f749662d8"
+  image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
+  author-name: "Allison Horst & Julia Lowndes"
+  author-url: "https://openscapes.org"
+ license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+     GitHub helps streamline our work.
+  image-alt: |
+    Left panel, against a blue sky with white clouds, a confident-looking monster climbs a rock face. Their rope’s anchors, secured with carabiners, are labeled from bottom to top and say “Initial commit”, “Data Cleaned”, “Analysis completed”. Another anchor on their harness, ready to place, is labeled “Manuscript drafted”. Right panel, against a gray sky with rain and lightning, a stressed-looking monster climbs a rock face. Their rope has a knot, is frayed, and is looped around one foot. Their anchors, placed haphazardly and not well-secured, are labeled things like “analysis_final_v2.xls”, “analysis_final_final.xls”, and “ignore_this.xls”. Text above the left panel says “When working with GitHub we can navigate with more obvious, safe, streamlined routes that let us focus on the science-y things we want to do…” Text above the right panel says: “...but working without GitHub can be disorienting, with too much time spent sifting through past work to figure out next steps forward.”
+allisonhorst-mergeconflict:
+  image-title: "Mergeconflict/GitHug"
+  image-file: "allisonhorst-mergeconflict.png"
+  image-url: "https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/bac2b5d6-5f71-4bb2-8904-03af45448ac2_rw_1200.png?h=d9a9aef39ce69d8d04c1f0c450980030"
+  image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
+  author-name: "Allison Horst & Julia Lowndes"
+  author-url: "https://openscapes.org"
+ license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    Don´t be scared of mergeconflicts 
+  image-alt: |
+    Cartoon of the GitHub octocat mascot hugging a very sad looking little furry monster while the monster points accusingly at an open laptop with "MERGE CONFLICT" in red across the entire screen. The laptop has angry eyes and claws and a wicked smile. In text across the top reads "gitHUG" with a small heart
+allisonhorst-project-management:
+  image-title: "GitHub project management illustration"
+  image-file: "allisonhorst-project-management.png"
+  image-url: "https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/e23bf40b-7e31-4d63-953a-5bef4eef9280_rw_3840.png?h=68f1083e6605515a81e9915cac1e4c81"
+  image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
+  author-name: "Allison Horst & Julia Lowndes"
+  author-url: "https://openscapes.org"
+ license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    GitHub helps us support 
+  image-alt: |
+   Four little monsters on grass support another monster starting their climb up a rock face. The climber’s harness is labeled “Coder”, the belayer wears a harness labeled “Code review”, two others consulting a book and route map wear caps labeled “Documentation” and “Reuse”, and another brings a box labeled “Project management and snacks”.
+allisonhorst-remotes-branches:
+  image-title: "Illustration of remotes with branches"
+  image-file: "allisonhorst-remotes-branches.png"
+  image-url: "https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/efae32ce-863f-4773-852c-4335e3ce4709_rw_3840.png?h=c54a2e5af240ec6e1332e2dcacbd7f33"
+  image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
+  author-name: "Allison Horst & Julia Lowndes"
+  author-url: "https://openscapes.org"
+ license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    Overview of remotes with branches 
+  image-alt: |
+   Cartoon showing paths between local and remote git repositories. White bunnies push packages around representing git-tracked file changes. One bunny moves packages into a staging area (git add), which are then moved to the local branch with git commit, which are then pushed to the remote branch with git push. A bunny in the remote branch yells to the remote main "got some new stuff! Should we bring it over?" (with text Pull Request above the speech bubble) while a bunny in the remote main branch says "everything looks good, bring it on over!" A bunny pulls a cart from the remote branch to remote main, with text "merge" next to it. 
+allisonhorst-remotes:
+  image-title: "Illustration of remotes"
+  image-file: "allisonhorst-remotes.png"
+  image-url: "https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/68739659-fb6f-41e8-9813-32e1de3d82c0_rw_3840.png?h=5c36d3c50c350a440567a1f8f72ac028"
+  image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
+  author-name: "Allison Horst & Julia Lowndes"
+  author-url: "https://openscapes.org"
+ license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    Overview of a Git remote 
+  image-alt: |
+    A basic git workflow represented as two islands, one with "local repo" and "working directory", and another with "remote repo." Bunnies move file boxes from the working directory to the staging area, then with Commit move them to the local repo. Bunnies in rowboats move changes from the local repo to the remote repo (labeled "PUSH") and from the remote repo to the working directory (labeled "PULL").
+
+
+
