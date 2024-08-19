@@ -242,7 +242,7 @@ allisonhorst-commits-qoute:
   image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
   author-name: "Allison Horst & Julia Lowndes"
   author-url: "https://openscapes.org"
- license-short: "CC BY 4.0"
+  license-short: "CC BY 4.0"
   license-long: "Creative Commons Attribution 4.0 International"
   license-url: "https://creativecommons.org/licenses/by/4.0/"
   license-reference: "https://github.com/allisonhorst/stats-illustrations"
@@ -259,7 +259,7 @@ allisonhorst-commits:
   image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
   author-name: "Allison Horst & Julia Lowndes"
   author-url: "https://openscapes.org"
- license-short: "CC BY 4.0"
+  license-short: "CC BY 4.0"
   license-long: "Creative Commons Attribution 4.0 International"
   license-url: "https://creativecommons.org/licenses/by/4.0/"
   license-reference: "https://github.com/allisonhorst/stats-illustrations"
@@ -276,7 +276,7 @@ allisonhorst-gitfetch:
   image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
   author-name: "Allison Horst & Julia Lowndes"
   author-url: "https://openscapes.org"
- license-short: "CC BY 4.0"
+  license-short: "CC BY 4.0"
   license-long: "Creative Commons Attribution 4.0 International"
   license-url: "https://creativecommons.org/licenses/by/4.0/"
   license-reference: "https://github.com/allisonhorst/stats-illustrations"
@@ -293,7 +293,7 @@ allisonhorst-github-qoute:
   image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
   author-name: "Allison Horst & Julia Lowndes"
   author-url: "https://openscapes.org"
- license-short: "CC BY 4.0"
+  license-short: "CC BY 4.0"
   license-long: "Creative Commons Attribution 4.0 International"
   license-url: "https://creativecommons.org/licenses/by/4.0/"
   license-reference: "https://github.com/allisonhorst/stats-illustrations"
@@ -310,7 +310,7 @@ allisonhorst-mergeconflict:
   image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
   author-name: "Allison Horst & Julia Lowndes"
   author-url: "https://openscapes.org"
- license-short: "CC BY 4.0"
+  license-short: "CC BY 4.0"
   license-long: "Creative Commons Attribution 4.0 International"
   license-url: "https://creativecommons.org/licenses/by/4.0/"
   license-reference: "https://github.com/allisonhorst/stats-illustrations"
@@ -327,7 +327,7 @@ allisonhorst-project-management:
   image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
   author-name: "Allison Horst & Julia Lowndes"
   author-url: "https://openscapes.org"
- license-short: "CC BY 4.0"
+  license-short: "CC BY 4.0"
   license-long: "Creative Commons Attribution 4.0 International"
   license-url: "https://creativecommons.org/licenses/by/4.0/"
   license-reference: "https://github.com/allisonhorst/stats-illustrations"
@@ -344,7 +344,7 @@ allisonhorst-remotes-branches:
   image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
   author-name: "Allison Horst & Julia Lowndes"
   author-url: "https://openscapes.org"
- license-short: "CC BY 4.0"
+  license-short: "CC BY 4.0"
   license-long: "Creative Commons Attribution 4.0 International"
   license-url: "https://creativecommons.org/licenses/by/4.0/"
   license-reference: "https://github.com/allisonhorst/stats-illustrations"
@@ -361,7 +361,7 @@ allisonhorst-remotes:
   image-reference: "https://openscapes.org/blog/2022-05-27-github-illustrated-series/"
   author-name: "Allison Horst & Julia Lowndes"
   author-url: "https://openscapes.org"
- license-short: "CC BY 4.0"
+  license-short: "CC BY 4.0"
   license-long: "Creative Commons Attribution 4.0 International"
   license-url: "https://creativecommons.org/licenses/by/4.0/"
   license-reference: "https://github.com/allisonhorst/stats-illustrations"
@@ -371,6 +371,22 @@ allisonhorst-remotes:
     Overview of a Git remote 
   image-alt: |
     A basic git workflow represented as two islands, one with "local repo" and "working directory", and another with "remote repo." Bunnies move file boxes from the working directory to the staging area, then with Commit move them to the local repo. Bunnies in rowboats move changes from the local repo to the remote repo (labeled "PUSH") and from the remote repo to the working directory (labeled "PULL").
-
+solo-project-meme:
+  image-title: "Meme: Solo project"
+  image-file: "solo-project-meme.png"
+  image-url: "https://cdn.masto.host/mastodongamedevplace/media_attachments/files/112/050/501/735/123/978/original/1b152a4bcc961259.png"
+  image-reference: "https://mastodon.gamedev.place/@jupiter/112050507023252802"
+  author-name: "Juno Jove"
+  author-url: "https://mastodon.gamedev.place/@jupiter"
+  license-short: "CC BY 4.0"
+  license-long: "Creative Commons Attribution 4.0 International"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-reference: "https://github.com/allisonhorst/stats-illustrations"
+  comments: "reused without modifications"
+  image-doi: "no DOI found"
+  image-caption: |
+    From creating the bug to merging the PR 
+  image-alt: |
+    A meme showing the same person performing all stages of a solo software development process, including creating the bug, writing the PR, assigning the task, reviewing the PR, and finally merging the PR, all while smiling.
 
 
